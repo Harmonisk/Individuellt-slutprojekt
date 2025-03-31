@@ -42,6 +42,28 @@ Portfoliosida.
 
 ### Commits
 
+## Tidslinje
+
+### Vecka 1
+
+#### Måndag
+
+* Skapa repo
+* Planeringsdokument
+* Skapa Jiraprojekt
+* Lära mig grunderna i Jira
+
+#### Tisdag
+
+* Wireframe
+* Söka inspiration för upplägg/design
+* Repetera grunderna i figma
+* Färdigställa wireframe
+
+### Vecka 2
+
+### Vecka 3
+
 ## Tekinker och ramverk
 
 ### Projekthantering och planering
