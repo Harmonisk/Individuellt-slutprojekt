@@ -20,6 +20,7 @@ Portfoliosida.
 
 * Avancerad modern CSS
   * Animationer
+  * Responsivitet
 * CRUD
 * Auth
 * Accesibility
