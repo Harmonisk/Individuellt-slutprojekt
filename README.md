@@ -4,7 +4,7 @@
 
 ## Projektidé
 
-Portfoliosida.
+Min projektidé är att  skapa en portfoliosida där jag kan visa arbetsgivarer mina färdigheter. Sidan ska innehålla en kort presentation av mig med min utbildningsbakgrund, mina språk jag behärskar och mina ramverk jag är insatt i. Sidan skall även innehålla sektioner som visar mina färdigheter som utvecklare. Till exempel kan det finnas sektioner som visar på animationer i CSS, en sektion som är en liten exempelapplikation inom e-commerce, en sektion som visar formulärhantering och så vidare. Sidan skall vara välkommenterad, responsiv och föja WCAG:s riktlinjer för tillgänglighet.
 
 ## Dokumentation
 
@@ -32,7 +32,23 @@ Portfoliosida.
 
 ##### Godkänt nivå/miniminivå
 
-* 
+* Responsiv
+* Grundläggande crud-operationer som Read från externt bibliotek
+* Använder sig av vanliga hooks som useEffect, useState, useReducer o.s.v.
+* Använder sig av useContext
+* Lära mig animationer
+* Tillgänlig
+* Välkommenterad kod
+* Commits efter branchstandard
+
+##### Bonuslista
+
+* Autentisering
+* Eget API
+* delsidor som visar:
+  * e-commerce
+  * blogg
+  * receptsida
 
 ### Diagram
 
@@ -42,11 +58,21 @@ Portfoliosida.
 
 #### Wireframe
 
+[Länk till figma](https://www.figma.com/design/2SgZYA3rwGuoPC6jYI4Aa1/Individuellt-slutprojekt?node-id=0-1&p=f&t=Ph5ZEIdlAXLvRHtO-0)
+
 ## Kodstandard
 
 ### Kommentarer
 
+Skall följa branchstandard. Standarden som följs är: [https://tsdoc.org/]().
+
 ### Commits
+
+Skall likt kommentarerna följa branchstandard. Standarden som följs är den som beskrivs på följande sidor: 
+
+[tui.chart](https://github.com/nhn/tui.chart/blob/main/docs/COMMIT_MESSAGE_CONVENTION.md)
+
+[conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Raster
 
@@ -63,7 +89,6 @@ Portfoliosida.
 * Planeringsdokument
 * Skapa Jiraprojekt
 * Lära mig grunderna i Jira
-* redovisa projektinriktning
 
 #### Tisdag
 
@@ -75,6 +100,10 @@ Portfoliosida.
 * skapa backlog
 
 #### Onsdag
+
+* Mobil wireframe
+* Fortsätta på backlog
+* Installera next
 
 ### Vecka 2
 
