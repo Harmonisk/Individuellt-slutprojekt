@@ -28,6 +28,12 @@ Portfoliosida.
 * Formulär
 * Felhantering
 
+#### Begränsningar
+
+##### Godkänt nivå/miniminivå
+
+* 
+
 ### Diagram
 
 #### Dependency graph
@@ -42,6 +48,11 @@ Portfoliosida.
 
 ### Commits
 
+## Raster
+
+* 5 minuter rast varje halvtimme
+* 1 timmes lunchrast
+
 ## Tidslinje
 
 ### Vecka 1
@@ -52,6 +63,7 @@ Portfoliosida.
 * Planeringsdokument
 * Skapa Jiraprojekt
 * Lära mig grunderna i Jira
+* redovisa projektinriktning
 
 #### Tisdag
 
@@ -59,6 +71,10 @@ Portfoliosida.
 * Söka inspiration för upplägg/design
 * Repetera grunderna i figma
 * Färdigställa wireframe
+* redovisa projektinriktning
+* skapa backlog
+
+#### Onsdag
 
 ### Vecka 2
 
