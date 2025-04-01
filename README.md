@@ -15,6 +15,8 @@ Min projektidé är att  skapa en portfoliosida där jag kan visa arbetsgivarer 
 * modulär
 * utbyggbar
 * vad vill jag visa för arbetsgivare
+* välplanerat
+* välorganiserat i mjukvara
 
 #### Specifika färdigheter
 
@@ -27,6 +29,7 @@ Min projektidé är att  skapa en portfoliosida där jag kan visa arbetsgivarer 
 * SPA
 * Formulär
 * Felhantering
+* Git
 
 #### Begränsningar
 
@@ -44,6 +47,8 @@ Min projektidé är att  skapa en portfoliosida där jag kan visa arbetsgivarer 
 ##### Bonuslista
 
 * Autentisering
+* Deployment i Vercel el. dylikt
+* Git rebase/squash
 * Eget API
 * delsidor som visar:
   * e-commerce
@@ -73,6 +78,40 @@ Skall likt kommentarerna följa branchstandard. Standarden som följs är den so
 [tui.chart](https://github.com/nhn/tui.chart/blob/main/docs/COMMIT_MESSAGE_CONVENTION.md)
 
 [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
+
+### CSS
+
+Skall följa tailwind men modulariseras. Custom-klasser skapas och appliceras med hjälp av @Layer.
+
+### Mappstruktur
+
+#### Projekt
+
+##### App 
+
+###### Landing page
+
+###### Showcase
+
+###### Shop
+
+##### Interfaces
+
+##### Components
+
+##### Styles
+
+## Arbetsflöde
+
+### Git
+
+* använda mig av terminalkommando så mycket som möjligt
+* frekventa commits enligt kodstandard (se avsnitt "Commits" under kodstandard)
+* dev branch och main branch
+
+### Jira
+
+* Plocka issues i ordning av viktning
 
 ## Raster
 
@@ -104,10 +143,31 @@ Skall likt kommentarerna följa branchstandard. Standarden som följs är den so
 * Mobil wireframe
 * Fortsätta på backlog
 * Installera next
+* skapa mappstruktur
+* sätta upp arbetsflöde i Jira
+* Börja vikta issues
+
+#### Torsdag
+
+* Börja följa arbetsflödet
+* Boilerplate för sidor
+* Grundkomponenter
+
+#### Fredag
+
+* Fortsätta följa arbetsflödet
+* Fortsätt med grundkomponenter
+* Börja sätta ihop/implementera grundkomponenter
 
 ### Vecka 2
 
+* Få klar grundstruktur i sida
+* Planera showcaseexempel
+* Börja på showcaseexempel
+
 ### Vecka 3
+
+* Börja på exempelshop
 
 ## Tekinker och ramverk
 
